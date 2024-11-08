@@ -1,0 +1,7 @@
+<query-profiles>
+    <query-profile id="default">
+        <fields>
+            <field name="ranking.features.query(passage_embedding)" type="tensor&lt;float&gt;(x[384])" />
+        </fields>
+    </query-profile>
+</query-profiles>
